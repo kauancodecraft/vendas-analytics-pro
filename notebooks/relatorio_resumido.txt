@@ -1,0 +1,38 @@
+
+RELATÓRIO EXECUTIVO - VENDAS ANALYTICS PRO
+Data: 25/02/2026 20:54:49
+
+MÉTRICAS PRINCIPAIS:
+- Total de Vendas: 5,000
+- Receita Total: R$ 36,586,585.60
+- Ticket Médio: R$ 7,317.32
+- Valor Máximo: R$ 39,995.00
+- Valor Mínimo: R$ 239.20
+- Taxa de Sucesso: 75.24%
+
+CLIENTES E PRODUTOS:
+- Clientes Únicos: 3,773
+- Produtos Únicos: 15
+- Categorias: 5
+
+DISTRIBUIÇÃO GEOGRÁFICA:
+- Regiões: Nordeste, Sudeste, Norte, Centro-Oeste, Sul
+- Região com Maior Receita: Sudeste
+
+SEGMENTAÇÃO DE CLIENTES:
+segmento_cliente
+Prata     1997
+Bronze    1976
+Ouro      1027
+
+FORMAS DE PAGAMENTO:
+forma_pagamento
+Boleto            1044
+Crediário         1016
+Cartão Débito     1012
+Cartão Crédito    1002
+PIX                926
+
+PERÍODO ANALISADO:
+- Data Inicial: 01/01/2023
+- Data Final: 25/02/2025
